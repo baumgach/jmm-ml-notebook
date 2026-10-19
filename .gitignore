@@ -1,0 +1,3 @@
+website/
+.jupyterlite.doit.db
+dist/
